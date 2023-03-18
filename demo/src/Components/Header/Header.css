@@ -1,0 +1,10 @@
+.Header {
+    background-color: blueviolet;
+    padding: 10px;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 2em;
+    font-family: sans-serif;
+  }
