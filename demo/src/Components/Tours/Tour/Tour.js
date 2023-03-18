@@ -26,7 +26,7 @@ function Tour() {
                     <Card.Text>
                       <p>{item.info}</p>
                       <p>
-                        Number of times this city was edited is: {editCounter}
+                        # of times this city was edited is: {editCounter}
                       </p>
                     </Card.Text>
                     <Button variant="primary" onClick={incrementEditCounter}>
